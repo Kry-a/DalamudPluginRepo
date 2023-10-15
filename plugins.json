@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Krya",
+    "Name": "Spotify Cutscener",
+    "InternalName": "SpotifyCutscener",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "Allows you to automatically pause BGM while listening to music on Spotify, and to pause Spotify itself when in a cutscene, and resume it once the cutscene is over.\nUse /spcut for settings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Kry-a/SpotifyCutscener",
+    "Tags": [
+      "cutscene",
+      "spotify",
+      "music",
+      "sound"
+    ],
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://raw.githubusercontent.com/Kry-a/SpotifyCutscener/main/Images/Icon.png",
+    "Punchline": "Automatically pauses in-game BGM while listening to Spotify, and Spotify when in a cutscene :)",
+    "DownloadLinkInstall": "https://github.com/Kry-a/SpotifyCutscener/releases/download/v0.0.1.0/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Kry-a/SpotifyCutscener/releases/download/v0.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Kry-a/SpotifyCutscener/releases/download/v0.0.1.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1697381166"
+  }
+]
